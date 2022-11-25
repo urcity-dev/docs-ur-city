@@ -11,8 +11,9 @@ url: https://docs.ur.city
 
 
 aux_links:
-  "UR.CITY": https://UR.CITY
   "IM.CITY": https://IM.CITY
+  "UR.CITY": https://UR.CITY
+  "CONTACT": /pages/contact.html
 
 # Color scheme supports "light" (default) and "dark"
 #color_scheme: dark
@@ -32,6 +33,9 @@ gh_edit_repository: "https://github.com/urcity-dev/docs-ur-city" # the github UR
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+contact_web3form_id: "7f09cbea-4ecd-4ab5-944f-c1e7497fb501"
+contact_web3form_success_url: "https://docs.ur.city"
 
 callouts_level: quiet # or loud
 callouts:
