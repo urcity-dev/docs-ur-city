@@ -14,4 +14,6 @@ last_modified_date: 2022-11-16 12:40
 
 ## What is UR.CITY?
 
-UR.CITY is a prototype virtual city platform 
+UR.CITY is a prototype virtual city platform built on top of the [CityOS Framework].
+
+[CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
