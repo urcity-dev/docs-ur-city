@@ -58,7 +58,7 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 - 10% Project Initiator
 
 
-## The "IM COMMUNITY Token" ($IMCT)
+## The "IM Community Token" ($IMCT)
 
 ----------------
 
