@@ -5,10 +5,6 @@ nav_order: 10
 last_modified_date: 2022-11-26 10:40
 ---
 
-{: .warning }
->All tokens issued within this platform are "utility tokens".
->There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
-
 # UR.CITY Tokenomics
 {: .no_toc }
 
@@ -22,6 +18,12 @@ last_modified_date: 2022-11-26 10:40
 - TOC
 {:toc}
 </details>
+
+{: .warning }
+>All tokens issued within this platform are "utility tokens".
+>There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
+
+&nbsp;
 
 ## The "Virtual CITY Token" ($VCT) 
 
