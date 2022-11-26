@@ -12,6 +12,8 @@ last_modified_date: 2022-11-26 10:40
 # UR.CITY Tokenomics
 {: .no_toc }
 
+----------------
+
 <details open markdown="block">
   <summary>
     Table of contents
