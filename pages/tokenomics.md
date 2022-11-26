@@ -38,7 +38,6 @@ The _$VCT_ is a rewarding token that is used to reward users for various social 
 As a utility token, the _$VCT_ is used to pay for the use of the platform and its services.
 
 
-&nbsp;   
 ### Tokens Supply
 
 
@@ -49,7 +48,7 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 | Circulating Supply | 0                 |
 
 
-&nbsp;   
+
 ### Distribution Structure 
 
 - 40% Community Rewards
@@ -58,8 +57,6 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 - 10% Development Company
 - 10% Project Initiator
 
-
-&nbsp;      
 
 ## The "IM COMMUNITY Token" ($IMCT)
 
@@ -84,7 +81,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 >Currently, it is not decided if the _$IMCT_ will be issued and distributed under the [IM.CITY] or [UR.CITY] platform.
 >A decision is made after the PoC stage.
 
-&nbsp;
+
 ### Tokens Supply
 
 
@@ -95,7 +92,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 | Circulating Supply | 0               |
 
 
-&nbsp;
+
 ### Distribution Structure
 
 
