@@ -5,8 +5,6 @@ nav_order: 10
 last_modified_date: 2022-11-26 10:40
 ---
 
-{:toc}
-
 {: .warning }
 >All tokens issued within this platform are "utility tokens".
 >There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
@@ -102,3 +100,6 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 [IOTA]: https://www.iota.org/ "IOTA Network"
 [IM.CITY]: https://im.city "IM.CITY"
 [UR.CITY]: https://ur.city "UR.CITY"
+
+1. TOC
+   {:toc}
