@@ -22,7 +22,7 @@ last_modified_date: 2022-11-26 10:40
 
 
 {: .warning }
->All tokens issued within this platform are "utility tokens".
+>All tokens issued within this platform ecosystem are "utility tokens".
 >There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
 
 
