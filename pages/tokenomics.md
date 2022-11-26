@@ -40,7 +40,6 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 #### Distribution Structure
 &nbsp;  
 
-The **distribution structure** of the _$VCT_ is as follows:
 - 40% Community Rewards
 - 30% Development Contributors
 - 10% Development NGO
@@ -88,7 +87,6 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 #### Distribution Structure
 &nbsp;
 
-The **distribution structure** of the _$IMCT_ is as follows:
 - 40% Community Rewards
 - 30% Development Contributors
 - 10% Development NGO
