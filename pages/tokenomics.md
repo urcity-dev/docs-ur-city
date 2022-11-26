@@ -98,3 +98,5 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 [CityOS]: https://CityOS.dev "CityOS"
 [Shimmer]: https://shimmer.network/ "Shimmer Network"
 [IOTA]: https://www.iota.org/ "IOTA Network"
+[IM.CITY]: https://im.city "IM.CITY"
+[UR.CITY]: https://ur.city "UR.CITY"
