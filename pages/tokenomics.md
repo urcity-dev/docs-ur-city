@@ -13,7 +13,7 @@ last_modified_date: 2022-11-26 10:40
 
 ----------------
 
-### $VCT - The "Virtual CITY Token"
+### The "Virtual CITY Token" ($VCT) 
 
 ----------------
 
@@ -50,7 +50,7 @@ The **distribution structure** of the _$VCT_ is as follows:
 
 &nbsp;      
 
-### $IMCT - The "IM COMMUNITY Token"
+### The "IM COMMUNITY Token" ($IMCT)
 
 ----------------
 
