@@ -37,7 +37,7 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 
 &nbsp;   
 ### Tokens Supply
-&nbsp;  
+
 
 | $VCT               | Amount            |
 |:-------------------|:------------------|
@@ -47,8 +47,7 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 
 
 &nbsp;   
-### Distribution Structure
-&nbsp;  
+### Distribution Structure 
 
 - 40% Community Rewards
 - 30% Development Contributors
@@ -84,7 +83,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 
 &nbsp;
 ### Tokens Supply
-&nbsp;
+
 
 | $IMCT              | Amount          |
 |:-------------------|:----------------|
@@ -95,7 +94,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 
 &nbsp;
 ### Distribution Structure
-&nbsp;
+
 
 - 40% Community Rewards
 - 30% Development Contributors
