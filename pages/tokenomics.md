@@ -2,6 +2,7 @@
 title: Tokenomics
 layout: page
 nav_order: 10
+permalink: /tokenomics/
 last_modified_date: 2022-11-26 10:40
 ---
 
