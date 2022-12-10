@@ -24,6 +24,8 @@ last_modified_date: 2022-11-25 12:40
 
 ## What is UR.CITY?
 
+----------------
+
 {: .highlight }
 UR.CITY is a **virtual** city platform (Proof of Concept).
 
