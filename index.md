@@ -24,7 +24,7 @@ last_modified_date: 2022-11-25 12:40
 
 ## What is UR.CITY?
 
-> {: .highlight }
+{: .highlight }
 UR.CITY is a **virtual** city platform (Proof of Concept).
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
