@@ -34,6 +34,9 @@ We believe that our virtual world approach will create a highly engaging experie
 {: .highlight }
 UR.CITY is a **virtual** city platform (Proof of Concept).
 
+
+Read more about the difference between "virtual" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
+
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
 [Contact Us]: /contact/ "Contact Us"
