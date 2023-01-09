@@ -39,7 +39,7 @@ The simulated world will include some main elements from the twin project, IM.CI
 
 UR.CITY, should simulate and experiment with different social approaches and modern concepts like Universal Basic Income, Liquid Democracy, Liquid Contracts, etc, and will allow users to experience the impact of their decisions on the virtual society.
 
-As our platform evolves, we plan to eventually blend the entertainment elements with utility elements within a more complex approach for the new city approach.
+As our platform evolves, we plan to eventually blend the entertainment elements with utility elements within a more complex approach for the **new city approach**.
 
 We believe that our virtual world approach will create a highly engaging experience for users. The interactive nature of the virtual world allows us to create a realistic and dynamic environment that is both **fun and educational**. 
 
