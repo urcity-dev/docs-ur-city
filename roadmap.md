@@ -14,6 +14,8 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 # General Roadmap
 ----------------
 
+The timeline of the road map is still to be decided following consultation with the community and other stakeholders.
+
 ## Milestones Roadmap 
 
 - [ ] **[Install UR.CITY](https://UR.CITY){:target="_blank"}** as a _Virtual Spaces Platform_
