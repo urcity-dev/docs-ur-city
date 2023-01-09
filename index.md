@@ -35,13 +35,15 @@ UR.CITY is a planned online platform providing a non-visual simulator of **socia
 Our platform is an innovative experience that will offer users a **unique perspective on social urban interaction and decision-making processes**. We are utilizing Artificial Intelligence to generate unique characters ("virtual citizens") with diverse psychological profiles and cities with different social approaches based on **user choices**.    
 Each character will make decisions based on their personality and the city they are in, and users will be able to earn virtual tokens based on the actions of their characters.
 
+The simulated world will include some main elements from the twin project, IM.CITY, including a **Decision-Making Engine (DME)**, a **Digital Rewards Engine (DRE)**, and **Virtual Spaces**. The **Decision-Making Engine (DME)** will be used to conduct collective decision-making processes, and users will be able to earn or spend Virtual Intelligence Tokens ($VIT) and Virtual City Tokens ($VCT) as part of the process. **Virtual Space Tokens ($VST)** will be used to determine the capacity of a Virtual Space.
+
+As our platform evolves, we plan to eventually blend the entertainment elements with utility elements within a more complex approach for the new city approach.
+
 We believe that our virtual world approach will create a highly engaging experience for users. The interactive nature of the virtual world allows us to create a realistic and dynamic environment that is both **fun and educational**. 
 
 We are excited about the potential for UR.CITY and are looking forward to bringing this innovative experience to our users in the nearest future. 
 
 Whether you are interested in exploring new virtual cities, interacting with unique characters, or earning virtual tokens, we believe that UR.CITY will have something for everyone.
-
-As our platform evolves, we plan to eventually blend the entertainment elements with utility elements within a more complex approach for the new city approach.
 
 Please note that this project is currently in its early stages of planning it as a Proof of Concept (PoC). We hope you will **join us on this journey** and experience all that UR.CITY has to offer.
 
