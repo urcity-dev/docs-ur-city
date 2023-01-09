@@ -30,10 +30,16 @@ UR.CITY is an online social simulator (non-visual) allowing users to manage **vi
 
 &nbsp;
 
-UR.CITY is a planned online platform that will offer a non-visual simulator of social urban interaction in simulated virtual cities. Our platform is an innovative experience that will offer users a unique perspective on social urban interaction and decision-making processes. We are utilizing Artificial Intelligence to generate unique characters ("virtual citizens") with diverse psychological profiles and cities with different social approaches. Each character will make decisions based on their personality and the city they are in, and users will be able to earn virtual tokens based on the actions of their characters.
+UR.CITY is a planned online platform providing a non-visual simulator of **social urban interaction** of virtual citizens in virtual cities and **AI generated virtual societies**. 
 
-We believe that our virtual world approach will create a highly engaging experience for users. The immersive and interactive nature of the virtual world allows us to create a realistic and dynamic environment that is both fun and educational. We are excited about the potential for UR.CITY and are looking forward to bringing this innovative experience to our users in the nearest future. Whether you are interested in exploring new virtual cities, interacting with unique characters, or earning virtual tokens, we believe that UR.CITY will have something for everyone. We hope you will join us on this journey and experience all that UR.CITY has to offer.
+Our platform is an innovative experience that will offer users a **unique perspective on social urban interaction and decision-making processes**. We are utilizing Artificial Intelligence to generate unique characters ("virtual citizens") with diverse psychological profiles and cities with different social approaches based on **user choices**.    
+Each character will make decisions based on their personality and the city they are in, and users will be able to earn virtual tokens based on the actions of their characters.
 
+We believe that our virtual world approach will create a highly engaging experience for users. The interactive nature of the virtual world allows us to create a realistic and dynamic environment that is both **fun and educational**. 
+
+We are excited about the potential for UR.CITY and are looking forward to bringing this innovative experience to our users in the nearest future. 
+
+Whether you are interested in exploring new virtual cities, interacting with unique characters, or earning virtual tokens, we believe that UR.CITY will have something for everyone. We hope you will **join us on this journey** and experience all that UR.CITY has to offer.
 
 Read more about the difference between "virtual" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
 
