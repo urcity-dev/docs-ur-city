@@ -39,7 +39,11 @@ We believe that our virtual world approach will create a highly engaging experie
 
 We are excited about the potential for UR.CITY and are looking forward to bringing this innovative experience to our users in the nearest future. 
 
-Whether you are interested in exploring new virtual cities, interacting with unique characters, or earning virtual tokens, we believe that UR.CITY will have something for everyone. We hope you will **join us on this journey** and experience all that UR.CITY has to offer.
+Whether you are interested in exploring new virtual cities, interacting with unique characters, or earning virtual tokens, we believe that UR.CITY will have something for everyone.
+
+As our platform evolves, we plan to eventually blend the entertainment elements with utility elements within a more complex approach for the new city approach. We hope you will **join us on this journey** and experience all that UR.CITY has to offer.
+
+Please note that this project is currently in its early stages of planning it as a Proof of Concept (PoC). 
 
 Read more about the difference between "virtual" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
 
