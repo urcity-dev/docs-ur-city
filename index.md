@@ -26,7 +26,9 @@ last_modified_date: 2022-11-25 12:40
 ----------------
 
 {: .highlight }
-IM.CITY is an online social simulator (non-visual) allowing users to manage virtual cities and virtual citizens and experience the collective decision-making processes in AI generated societies. (Proof of Concept).
+UR.CITY is an online social simulator (non-visual) allowing users to manage virtual cities and virtual citizens and experience the collective decision-making processes in AI generated societies. (Proof of Concept).
+
+&nbsp;
 
 UR.CITY is a planned online platform that will offer a non-visual simulator of social urban interaction in simulated virtual cities. Our platform is an innovative experience that will offer users a unique perspective on social urban interaction and decision-making processes. We are utilizing Artificial Intelligence to generate unique characters ("virtual citizens") with diverse psychological profiles and cities with different social approaches. Each character will make decisions based on their personality and the city they are in, and users will be able to earn virtual tokens based on the actions of their characters.
 
