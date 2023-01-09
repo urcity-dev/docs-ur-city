@@ -35,7 +35,9 @@ UR.CITY is a planned online platform providing a non-visual simulator of **socia
 Our platform is an innovative experience that will offer users a **unique perspective on social urban interaction and decision-making processes**. We are utilizing Artificial Intelligence to generate unique characters ("virtual citizens") with diverse psychological profiles and cities with different social approaches based on **user choices**.    
 Each character will make decisions based on their personality and the city they are in, and users will be able to earn virtual tokens based on the actions of their characters.
 
-The simulated world will include some main elements from the twin project, IM.CITY, including a **Decision-Making Engine (DME)**, a **Digital Rewards Engine (DRE)**, and **Virtual Spaces**. The **Decision-Making Engine (DME)** will be used to conduct collective decision-making processes, and users will be able to earn or spend Virtual Intelligence Tokens ($VIT) and Virtual City Tokens ($VCT) as part of the process. **Virtual Space Tokens ($VST)** will be used to determine the capacity of a Virtual Space.
+The simulated world will include some main elements from the twin project, IM.CITY, including a **Decision-Making Engine (DME)**, a **Digital Rewards Engine (DRE)**, and **Virtual Spaces**. The **Decision-Making Engine (DME)** will be used to conduct collective decision-making processes, and users will be able to earn or spend **Virtual Intelligence Tokens ($VIT)** and **Virtual City Tokens ($VCT)** as part of the process. **Virtual Space Tokens ($VST)** will be used to determine the capacity of a Virtual Space.
+
+UR.CITY, should simulate and experiment with different social approaches and modern concepts like Universal Basic Income, Liquid Democracy, Liquid Contracts, etc, and will allow users to experience the impact of their decisions on the virtual society.
 
 As our platform evolves, we plan to eventually blend the entertainment elements with utility elements within a more complex approach for the new city approach.
 
