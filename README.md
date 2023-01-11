@@ -7,6 +7,6 @@ You are invited to contribute to the docs.
 These docs refer to the UR.CITY platform only.    
 There is a separate repository for the [CityOS Framework] and [IM.CITY].
 
-[UR.CITY Platform]: https://UR.CITY "The Digital City"
-[IM.CITY Platform]: https://IM.CITY "The Virtual City"
+[UR.CITY Platform]: https://UR.CITY "The Artificial City"
+[IM.CITY Platform]: https://IM.CITY "The Digital City"
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital Cities"

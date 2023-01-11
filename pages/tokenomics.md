@@ -27,15 +27,15 @@ last_modified_date: 2022-11-26 10:40
 >There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
 
 
-## The "Virtual CITY Token" ($VCT) 
+## The "Artificial CITY Token" ($ACT) 
 
 ----------------
 
-The _Virtual CITY Token_ is the **main token** of the UR.CITY platform.   
+The _Artificial CITY Token_ is the **main token** of the UR.CITY platform.   
 Starting with the PoC (Proof of Concept) stage of the project, the token is issued in a web2 environment on the platform.
 Later, in the MVP (Minimum Viable Product) stage, the token will be issued on crypto networks ([Shimmer]/[IOTA]).
 
-The _$VCT_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
+The _$ACT_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
 As a utility token, the _$VCT_ is used to pay for the use of the platform and its services.
 
 

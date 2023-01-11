@@ -18,9 +18,9 @@ The timeline of the road map is still to be decided following consultation with 
 
 ## Milestones Roadmap 
 
-- [ ] **[Install UR.CITY](https://UR.CITY){:target="_blank"}** as a _Virtual Spaces Platform_
-- [ ] Develop the Virtual Citizens character creation system
+- [ ] **[Install UR.CITY](https://UR.CITY){:target="_blank"}** as a _Digital Spaces Platform_
+- [ ] Develop the Artificial Citizens character creation system
 - [ ] Develop the Decision-Making Engine
-- [ ] Develop the Virtual City creation system
-- [ ] Implement the Virtual City context into the DME
+- [ ] Develop the Artificial City creation system
+- [ ] Implement the Artificial City context into the DME
 
