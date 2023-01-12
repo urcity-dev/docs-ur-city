@@ -27,6 +27,9 @@ last_modified_date: 2022-11-26 10:40
 >There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
 
 
+**Note: It is still to be decided if we use the same tokenomics for both the "digital" and "artificial" cities (layers).**
+
+
 ## The "Artificial CITY Token" ($ACT) 
 
 ----------------
