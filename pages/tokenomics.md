@@ -30,22 +30,22 @@ last_modified_date: 2022-11-26 10:40
 **Note: It is still to be decided if we use the same tokenomics for both the "digital" and "artificial" cities (layers).**
 
 
-## The "Artificial CITY Token" ($ACT) 
+## The "Digital CITY Token" ($DCT) 
 
 ----------------
 
-The _Artificial CITY Token_ is the **main token** of the UR.CITY platform.   
+The _Digital CITY Token_ is the **main token** of the UR.CITY platform.   
 Starting with the PoC (Proof of Concept) stage of the project, the token is issued in a web2 environment on the platform.
 Later, in the MVP (Minimum Viable Product) stage, the token will be issued on crypto networks ([Shimmer]/[IOTA]).
 
-The _$ACT_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
-As a utility token, the _$VCT_ is used to pay for the use of the platform and its services.
+The _$DCT_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
+As a utility token, the _$DCT_ is used to pay for the use of the platform and its services.
 
 
 ### Tokens Supply
 
 
-| $VCT               | Amount            |
+| $DCT               | Amount            |
 |:-------------------|:------------------|
 | Total Supply       | 1,000,000,000,000 |
 | Max Supply         | 1,000,000,000,000 |
@@ -60,6 +60,16 @@ As a utility token, the _$VCT_ is used to pay for the use of the platform and it
 - 10% Development NGO
 - 10% Development Company
 - 10% Project Initiator
+
+
+## Digital Space Token ($DST)
+
+A **contextual token** used to determine the capacity of a Digital Space on the platform.
+
+
+## Artificial Intelligence Token ($AIT)
+
+A **contextual token** that can be used to access the services of Intelligent Agents on the platform.
 
 
 ## The "IM Community Token" ($IMCT)
