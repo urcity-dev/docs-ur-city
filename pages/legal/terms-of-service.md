@@ -43,4 +43,18 @@ _"Community"_ means the collective group of users who access and use the Platfor
 
 _"We"_ or _"us"_ means the owners and operators of the Platform.   
 
-## Eligibility to use the Platform
+## Eligibility to Use the Platform
+
+&nbsp;
+
+1. You must be at least 18 years of age to use the Platform. By accessing or using the Platform, you represent and warrant that you are at least 18 years of age and have the legal capacity to enter into a contract.
+
+1.  We reserve the right to request proof of age at any stage and to terminate your account if we suspect that you are under the age of 18.
+
+1. You may not use the Platform if you have been previously suspended or banned from the Platform.
+
+1. You may not use the Platform for any illegal or unauthorized purpose.
+
+1. You are solely responsible for ensuring compliance with all applicable laws and regulations in connection with your use of the Platform.
+
+1. We reserve the right to limit or terminate access to the Platform for any user who does not comply with these Terms of Service or for any other legitimate reason.
