@@ -11,7 +11,7 @@ last_modified_date: 2023-01-17 21:40
 
 ----------------
 
-Welcome to UR.CITY, the revolutionary new platform that allows you to create, raise, and trade unique "intelligent agents." 
+Welcome to UR.CITY, the revolutionary new platform (underdevelopment) that allows you to create, raise, and trade unique "intelligent agents." 
 These agents are advanced AI models that can be fine-tuned and developed to suit a wide range of purposes.   
 
 By using UR.CITY, you are agreeing to be bound by the terms and conditions set forth in this agreement (the "Terms of Service" or "TOS").  
