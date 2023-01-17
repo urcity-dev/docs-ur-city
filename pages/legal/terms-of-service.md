@@ -88,4 +88,25 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 1. We respect the intellectual property rights of others and we expect our users to do the same. If you believe that your intellectual property rights have been infringed by a user of the Platform, please contact us immediately.
 
 
-###
+### Disclaimers and limitations of liability
+
+&nbsp;
+
+1. The Platform and all Content and Services are provided on an "as is" and "as available" basis, without warranty of any kind, either express or implied, including without limitation any warranty for information, services, or products provided through or in connection with the Platform and any implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+1. We do not warrant that the Platform or any Content or Services will be timely, secure, error-free, or uninterrupted, that defects will be corrected, or that the Platform or any Content or Services or the server that makes them available are free of viruses or other harmful components.
+
+1. We do not warrant or make any representation regarding any Content or Services in terms of accuracy, reliability, completeness, or timeliness.
+
+1. We do not endorse or assume any liability for any Content or Services posted, stored, or uploaded by users or any third party, or for any loss or damage thereto, nor are we liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography, or profanity you may encounter.
+
+1. We are not liable for any loss of money, goodwill, or reputation, or any special, indirect, or consequential damages arising out of your use of the Platform or any Content or Services.
+
+1. We are not responsible for any content or services provided by third parties that may be accessed through the Platform, including but not limited to any third party websites or content accessed through links on the Platform.
+
+1. Your use of the Platform and any Content or Services is at your own risk.
+
+1. If you are dissatisfied with the Platform or any Content or Services, your sole and exclusive remedy is to discontinue using the Platform and the Content or Services.
+
+
+
