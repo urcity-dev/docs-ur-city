@@ -60,9 +60,28 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 1. We reserve the right to limit or terminate access to the Platform for any user who does not comply with these Terms of Service or for any other legitimate reason.
 
 
+### User conduct and prohibited activities
 
 
+1. As a user of the UR.CITY platform, you are required to comply with all applicable laws, regulations, and third-party rights.
 
+1. You are prohibited from using the platform for any illegal or unauthorized purpose, including but not limited to, violating any intellectual property rights, privacy rights, or any other rights of any person or entity.
+
+1. You are prohibited from using the platform to transmit any viruses, malware, or other harmful or destructive code.
+
+1. You are prohibited from using the platform to engage in any fraudulent or deceptive activities, or to promote or facilitate any illegal activities.
+
+1. You are prohibited from using the platform to impersonate or falsely represent your identity or affiliation with any person or organization.
+
+1. You are prohibited from using the platform to collect or harvest any personal information from other users without their express consent.
+
+1. You are prohibited from using the platform to engage in any form of harassment or discrimination, whether based on race, ethnicity, national origin, religion, sexual orientation, gender identity, or any other protected characteristic.
+
+1. You are prohibited from using the platform to post or share any content that is offensive, defamatory, violent, or otherwise inappropriate.
+
+1. You are prohibited from using the platform to interfere with or disrupt the normal functioning of the platform, or to attempt to gain unauthorized access to any systems or networks associated with the platform.
+
+1. UR.CITY reserves the right to investigate and take appropriate legal action against anyone who violates these rules, including, but not limited to, terminating their account and/or reporting them to law enforcement authorities.
 
 
 
