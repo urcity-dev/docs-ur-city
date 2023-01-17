@@ -116,10 +116,20 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 
 1. We reserve the right to modify or replace these TOS at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
-2 By continuing to access or use our Platform after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you must stop using the Platform.
+1. By continuing to access or use our Platform after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you must stop using the Platform.
 
-3 We may terminate or suspend access to our Platform immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the TOS.
+1. We may terminate or suspend access to our Platform immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the TOS.
 
-4 Upon termination, your right to use the Platform will immediately cease. If you wish to terminate your account, you may simply discontinue using the Platform.
+1. Upon termination, your right to use the Platform will immediately cease. If you wish to terminate your account, you may simply discontinue using the Platform.
 
-5 All provisions of the TOS which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+1. All provisions of the TOS which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+### Governing Law and Jurisdiction
+
+&nbsp;
+
+1. These TOS and any disputes arising out of or related to these TOS or the use of the Platform shall be governed by and construed in accordance with the laws of the jurisdiction in which the Platform is headquartered, without giving effect to any principles of conflicts of law.
+
+1. Any dispute arising under or in connection with these TOS shall be finally resolved by arbitration in accordance with the rules of the jurisdiction in which the Platform is headquartered. The arbitration shall be conducted by a single arbitrator appointed in accordance with the said rules. The arbitration proceedings shall be conducted in the English language.
+
+1. The parties irrevocably agree that the courts of the jurisdiction in which the Platform is headquartered shall have exclusive jurisdiction to settle any disputes or claims that may arise out of or in connection with these TOS or their subject matter or formation (including non-contractual disputes or claims).
