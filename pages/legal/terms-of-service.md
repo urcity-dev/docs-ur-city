@@ -21,16 +21,26 @@ Your continued use of our services following any changes indicates your acceptan
 
 ## Definitions of Terms
 
+&nbsp;
 
 _"Platform"_ means the UR.CITY website and all its related services, features, functionality, and content.  
+
 _"User"_ or _"you"_ means any person who accesses or uses the Platform.    
+
 _"Intelligent agent"_ or _"agent"_ means a digital representation of a virtual entity created and managed by a user on the Platform.    
+
 _"Artificial City"_ refers to the virtual environment provided by UR.CITY where users can create, raise, and trade intelligent agents.    
+
 _"Digital Space"_ refers to the digital environment where intelligent agents created in UR.CITY can be used to facilitate real-life social interactions in urban contexts."     
+
 _"Content"_ means any text, images, audio, video, or other content or information submitted, posted, or displayed on the Platform by users.    
+
 _"Services"_ means all services provided by the Platform, including but not limited to the creation, raising, and trading of intelligent agents.    
+
 _"Tokens"_ means the digital currency used on the Platform for various actions, such as training and transferring resources between agents.   
+
 _"Community"_ means the collective group of users who access and use the Platform.    
+
 _"We"_ or _"us"_ means the owners and operators of the Platform.   
 
-
+## Eligibility to use the Platform
