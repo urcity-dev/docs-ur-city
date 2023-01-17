@@ -110,3 +110,16 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 
 
 
+### Changes to the TOS and Termination
+
+&nbsp;
+
+1. We reserve the right to modify or replace these TOS at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+2 By continuing to access or use our Platform after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you must stop using the Platform.
+
+3 We may terminate or suspend access to our Platform immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the TOS.
+
+4 Upon termination, your right to use the Platform will immediately cease. If you wish to terminate your account, you may simply discontinue using the Platform.
+
+5 All provisions of the TOS which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
