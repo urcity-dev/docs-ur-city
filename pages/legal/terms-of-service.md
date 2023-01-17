@@ -19,7 +19,7 @@ These terms are in place to ensure a smooth and secure experience for all users 
 Please note that we reserve the right to make changes to these terms at any time, and it is your responsibility to review them periodically. 
 Your continued use of our services following any changes indicates your acceptance of the updated terms.
 
-## Definitions of Terms
+### Definitions of Terms
 
 &nbsp;
 
@@ -43,7 +43,7 @@ _"Community"_ means the collective group of users who access and use the Platfor
 
 _"We"_ or _"us"_ means the owners and operators of the Platform.   
 
-## Eligibility to Use the Platform
+### Eligibility to Use the Platform
 
 &nbsp;
 
@@ -58,3 +58,34 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 1. You are solely responsible for ensuring compliance with all applicable laws and regulations in connection with your use of the Platform.
 
 1. We reserve the right to limit or terminate access to the Platform for any user who does not comply with these Terms of Service or for any other legitimate reason.
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Intellectual Property Rights
+
+&nbsp;
+
+1. The Platform and all its content, including but not limited to text, images, audio, video, and software, are protected by copyright, trademark, and other intellectual property laws.
+
+1. We own or have the right to use all intellectual property rights in and to the Platform and its content.
+
+1. You may not use any content from the Platform for commercial purposes without obtaining our express written consent.
+
+1. By submitting, posting, or displaying Content on the Platform, you grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicensable license to use, reproduce, adapt, publish, translate, create derivative works from, distribute, and display such Content in any media or through any form of distribution or technology.
+
+1. You represent and warrant that you own or have the right to use all intellectual property rights in and to any Content you submit, post, or display on the Platform and that such Content does not infringe on any third-party rights.
+
+1. We respect the intellectual property rights of others and we expect our users to do the same. If you believe that your intellectual property rights have been infringed by a user of the Platform, please contact us immediately.
+
+
+###
