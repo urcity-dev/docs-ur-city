@@ -26,31 +26,31 @@ These terms are in place to ensure a smooth and secure experience for all users 
 Please note that we reserve the right to make changes to these terms at any time, and it is your responsibility to review them periodically. 
 Your continued use of our services following any changes indicates your acceptance of the updated terms.
 
-### Definitions of Terms
+### 1. Definitions of Terms
 
 &nbsp;
 
-_"Platform"_ means the UR.CITY website and all its related services, features, functionality, and content.  
+1. _"Platform"_ means the UR.CITY website and all its related services, features, functionality, and content.  
 
-_"User"_ or _"you"_ means any person who accesses or uses the Platform.    
+1. _"User"_ or _"you"_ means any person who accesses or uses the Platform.    
 
-_"Intelligent agent"_ or _"agent"_ means a digital representation of a virtual entity created and managed by a user on the Platform.    
+1. _"Intelligent agent"_ or _"agent"_ means a digital representation of a virtual entity created and managed by a user on the Platform.    
 
-_"Artificial City"_ refers to the virtual environment provided by UR.CITY where users can create, raise, and trade intelligent agents.    
+1. _"Artificial City"_ refers to the virtual environment provided by UR.CITY where users can create, raise, and trade intelligent agents.    
 
-_"Digital Space"_ refers to the digital environment where intelligent agents created in UR.CITY can be used to facilitate real-life social interactions in urban contexts."     
+1. _"Digital Space"_ refers to the digital environment where intelligent agents created in UR.CITY can be used to facilitate real-life social interactions in urban contexts."     
 
-_"Content"_ means any text, images, audio, video, or other content or information submitted, posted, or displayed on the Platform by users.    
+1. _"Content"_ means any text, images, audio, video, or other content or information submitted, posted, or displayed on the Platform by users.    
 
-_"Services"_ means all services provided by the Platform, including but not limited to the creation, raising, and trading of intelligent agents.    
+1. _"Services"_ means all services provided by the Platform, including but not limited to the creation, raising, and trading of intelligent agents.    
 
-_"Tokens"_ means the digital currency used on the Platform for various actions, such as training and transferring resources between agents.   
+1. _"Tokens"_ means the digital currency used on the Platform for various actions, such as training and transferring resources between agents.   
 
-_"Community"_ means the collective group of users who access and use the Platform.    
+1. _"Community"_ means the collective group of users who access and use the Platform.    
 
-_"We"_ or _"us"_ means the owners and operators of the Platform.   
+1. _"We"_ or _"us"_ or _"Company"_ means the company developing, maintaining, and operating the Platform as it is identified on the Platform website.
 
-### Eligibility to Use the Platform
+### 2. Eligibility to Use the Platform
 
 &nbsp;
 
@@ -67,7 +67,7 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 1. We reserve the right to limit or terminate access to the Platform for any user who does not comply with these Terms of Service or for any other legitimate reason.
 
 
-### User conduct and prohibited activities
+### 3. User conduct and prohibited activities
 
 
 1. As a user of the UR.CITY platform, you are required to comply with all applicable laws, regulations, and third-party rights.
@@ -96,7 +96,7 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 
 
 
-### Intellectual Property Rights
+### 4. Intellectual Property Rights
 
 &nbsp;
 
@@ -113,7 +113,7 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 1. We respect the intellectual property rights of others and we expect our users to do the same. If you believe that your intellectual property rights have been infringed by a user of the Platform, please contact us immediately.
 
 
-### Disclaimers and limitations of liability
+### 5. Disclaimers and limitations of liability
 
 &nbsp;
 
@@ -135,7 +135,7 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 
 
 
-### Changes to the TOS and Termination
+### 6. Changes to the TOS and Termination
 
 &nbsp;
 
@@ -149,7 +149,7 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 
 1. All provisions of the TOS which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
-### Governing Law and Jurisdiction
+### 7. Governing Law and Jurisdiction
 
 &nbsp;
 
