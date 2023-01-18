@@ -9,7 +9,7 @@ last_modified_date: 2023-01-17 21:40
 
 
 {: .important }
-Users are prohibited from creating more than one account on the Platform. Any user found to have multiple accounts may have all of their accounts terminated at our discretion.
+Users are prohibited from creating more than one account on the Platform. Any user found to have multiple accounts may have all of their accounts terminated and their digital assets cancelled.
 
 {: .note }
 Users may be required to undergo a KYC (Know Your Customer) process in order to transfer tokens or agents to other accounts.
