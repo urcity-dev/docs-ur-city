@@ -7,6 +7,13 @@ permalink: /legal/terms-of-service/
 last_modified_date: 2023-01-17 21:40
 ---
 
+
+{: .important }
+Users are prohibited from creating more than one account on the Platform. Any user found to have multiple accounts may have all of their accounts terminated at our discretion.
+
+{: .note }
+Users may be required to undergo a KYC (Know Your Customer) process in order to transfer tokens or agents to other accounts.
+
 # Terms of Service
 
 ----------------
@@ -81,12 +88,11 @@ _"We"_ or _"us"_ means the owners and operators of the Platform.
 
 1. You are prohibited from using the platform to interfere with or disrupt the normal functioning of the platform, or to attempt to gain unauthorized access to any systems or networks associated with the platform.
 
+1. You are prohibited from creating more than one account on the Platform. Any user found to have multiple accounts may have all of their accounts terminated at our discretion.
+
+1. UR.CITY reserves the right to require any user to complete a KYC (Know Your Customer) process before allowing the transfer of tokens or agents to other accounts.
+
 1. UR.CITY reserves the right to investigate and take appropriate legal action against anyone who violates these rules, including, but not limited to, terminating their account and/or reporting them to law enforcement authorities.
-
-
-
-
-
 
 
 
