@@ -25,7 +25,7 @@ last_modified_date: 2022-11-25 12:40
 ----------------
 
 {: .highlight }
-UR.CITY is an online social simulator (non-visual) allowing users to manage **artificial cities and artificial citizens** and experience the **collective decision-making processes** in AI generated societies. (Proof of Concept).
+UR.CITY serves as an incubator for **intelligent agents**, where users can create, raise, and trade unique AI models. It is built like an online social simulator (non-visual) allowing users to manage **artificial cities and intelligent agents** and experience the **collective decision-making processes** in AI generated societies. (Proof of Concept).
 
 &nbsp;
 
