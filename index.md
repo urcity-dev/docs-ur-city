@@ -18,7 +18,7 @@ last_modified_date: 2022-11-25 12:40
 
 &nbsp;
 
-# Digital Spaces for Intelligent Decisions
+# Unleashing the Potential of Intelligent Agents in the Virtual Urban Environment
 
 &nbsp;
 
