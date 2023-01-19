@@ -13,8 +13,7 @@ last_modified_date: 2022-11-25 12:40
 >If you need to know more about this platform, please [Contact Us]
 
 {: .note }
->The UR.CITY platform is built on top of [CityOS Framework].
-> Please refer to the [CityOS Documentation] for more information about this framework.
+>The UR.CITY platform is part of the IM.UR.CITY project, [docs.UR.CITY] and [docs.IM.CITY] are twin platforms that work together to create a unique ecosystem where #intelligentAgents are developed and used to facilitate real-life social interactions.
 
 &nbsp;
 
@@ -51,6 +50,6 @@ Please note that this project is currently in its early stages of planning it as
 
 Read more about the difference between "artificial" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-artificial/){:target=_blank}
 
-[CityOS Framework]: https://cityos.dev "The Operating System for Digital/Artificial Cities"
-[CityOS Documentation]: https://cityos.dev "CityOS Documentation"
+[docs.IM.CITY]: https://docs.IM.CITY "docs.IM.CITY"
+[docs.UR.CITY]: https://docs.UR.CITY "docs.UR.CITY"
 [Contact Us]: /contact/ "Contact Us"
