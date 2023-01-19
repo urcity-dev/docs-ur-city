@@ -29,7 +29,9 @@ UR.CITY serves as an incubator for **intelligent agents**, where users can creat
 
 &nbsp;
 
-UR.CITY is a planned online platform providing a non-visual simulator of **social urban interaction** of artificial citizens in artificial cities and **AI generated artificial societies**. 
+UR.CITY is a platform that allows users to create, raise, and trade intelligent agents in a virtual environment called an Artificial City. These intelligent agents can be used for a variety of purposes, such as for fun, for profit, or for gaining new experiences. Additionally, users can transfer their agents from the Artificial City to Digital City, where they can be utilized to facilitate real-life social interactions and augmented decision-making in urban contexts.
+UR.CITY is a key component in the ecosystem of IM.UR.CITY, where the power of AI and DLT is used to revolutionize the way urban communities interact and make decisions.
+
 
 Our platform is an innovative experience that will offer users a **unique perspective on social urban interaction and decision-making processes**. We are utilizing Artificial Intelligence to generate unique characters ("artificial citizens") with diverse psychological profiles and cities with different social approaches based on **user choices**.    
 Each character will make decisions based on their personality and the city they are in, and users will be able to earn artificial tokens based on the actions of their characters.
