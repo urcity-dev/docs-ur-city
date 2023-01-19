@@ -20,7 +20,7 @@ The timeline of the road map is still to be decided following consultation with 
 
 - [ ] **[Install UR.CITY](https://UR.CITY){:target="_blank"}** as a _Digital Spaces Platform_
 - [ ] Develop the Intelligent Agents character creation system
-- [ ] Develop the Intelligent Aagents development system
+- [ ] Develop the Intelligent Agents development system
 - [ ] Develop the Artificial City creation system
 - [ ] Implement the Artificial City context into the DME
 
