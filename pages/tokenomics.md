@@ -67,11 +67,6 @@ As a utility token, the _$DCT_ is used to pay for the use of the platform and it
 A **contextual token** used to determine the capacity of a Digital Space on the platform.
 
 
-## Artificial Intelligence Token ($AIT)
-
-A **contextual token** that can be used to access the services of Intelligent Agents on the platform.
-
-
 ## The "IM Community Token" ($IMCT)
 
 ----------------
